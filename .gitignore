@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+models/*.onnx
+tests/golden/*.mp3
+tests/golden/*.flac
+tests/golden/*.m4a
+data/
+*.sqlite3
