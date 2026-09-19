@@ -8,6 +8,11 @@ It is **data-compatible with the Android app**: the embedding index uses the
 app's exact JSON format, so you can index a library on your desktop and import
 it into the phone (or the other way round).
 
+## Docs
+
+* [Roadmap and phases](docs/ROADMAP.md)
+* [App reference: what is being ported](docs/APP_REFERENCE.md)
+
 ## Status
 
 | Phase | Scope | State |
